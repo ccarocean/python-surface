@@ -60,7 +60,7 @@ inheritance_graph_attrs = {
     'bgcolor': 'transparent',
     'rankdir': 'TB',
     'ratio': 'compress',
-    'size': '"6.5, 7.0"'}
+    'size': '"8, 12.0"'}
 intersphinx_mapping = {
     'py': ('https://docs.python.org/3', None),
     'np': ('http://docs.scipy.org/doc/numpy/', None),
