@@ -1,0 +1,9 @@
+-r default.txt
+-r tests.txt
+sphinx>=1.6
+sphinxcontrib-fulltoc
+pycodestyle
+pydocstyle
+pylint
+ipython
+ipdb
